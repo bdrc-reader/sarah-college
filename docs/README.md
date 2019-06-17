@@ -1,6 +1,6 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/LTWA/master/docs/img/LTWA.jpg)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/sarah-college/master/docs/img/sarah.jpg)
 
 <br>
 <br>
