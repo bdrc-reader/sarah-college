@@ -4,7 +4,7 @@
 
 #  ས་རཱ་མཐོ་སློབ་ཀྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/sarah-college/master/docs/img/01.jpg)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/sarah-college/master/docs/img/01.PNG)
 
 <br>
 <br>
